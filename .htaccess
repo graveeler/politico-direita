@@ -1,0 +1,22 @@
+Options All -Indexes
+
+RewriteEngine On
+
+# registra erros de PHP em um arquivo 
+# php_flag log_errors em 
+# php_value error_reporting 32767 
+# php_value error_log "error_log.txt"
+
+# ROUTER - Força o redirecionamento para WWW.
+#RewriteCond %{HTTP_HOST} !^www\. [NC]
+#RewriteRule ^ https://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# ROUTER - Força o redirecionamento para HTTPS.
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteCond %{HTTPS} off
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# ROUTER - URL Amigável (Reescrita)
+RewriteCond %{SCRIPT_FILENAME} !-f
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?route=/$1 [L,QSA]

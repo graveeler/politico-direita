@@ -3753,6 +3753,13 @@ ul {
   color: #fff;
 }
 
+#blog{
+  background-image: url('../../../cdn/assets/images/banners/background5.png');
+  padding-top: 40px;
+  background-repeat: no-repeat;
+  
+}
+
 .blog-comment-form textarea {
   background: #FBFBFB;
   border: 1px solid #FBFBFB;

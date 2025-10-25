@@ -1,1 +1,9 @@
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63197.23782054921!2d-34.97677803039549!3d-8.119053222994044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7ab1f427968d6cb%3A0x34787df94f76a149!2sShopping%20Recife!5e0!3m2!1spt-BR!2sbr!4v1759941990872!5m2!1spt-BR!2sbr" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63197.23782054921!2d-34.97677803039549!3d-8.119053222994044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7ab1f427968d6cb%3A0x34787df94f76a149!2sShopping%20Recife!5e0!3m2!1spt-BR!2sbr!4v1759941990872!5m2!1spt-BR!2sbr"
+    width="100%"
+    height="300"
+    style="border:0; margin: 0px;"
+    allowfullscreen=""
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade">
+</iframe>

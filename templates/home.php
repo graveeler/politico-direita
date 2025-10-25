@@ -11,11 +11,11 @@
 
 <?= $this->insert('sections/counter-video'); ?>
 
+<?= $this->insert('sections/work-proccess'); ?>
+
 <?= $this->insert('sections/blog'); ?>
 
 <?= ""//$this->insert('sections/testimonial'); ?>
-
-<?= $this->insert('sections/work-proccess'); ?>
 
 <?= $this->insert('sections/why-choose-us'); ?>
 

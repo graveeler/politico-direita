@@ -1,5 +1,5 @@
 <!-- why choose area start -->
-<section class="why-choose pd-top-100 pd-bottom-100" id="why-choose-us">
+<section class="why-choose pd-top-10 pd-bottom-100" id="why-choose-us">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 col-md-8 order-lg-last">

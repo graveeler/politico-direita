@@ -10,6 +10,7 @@
 
 <?= $this->insert('sections/map'); ?>
 
+
 <?php $this->start('js'); ?>
 
 <?php $this->end(); ?>  

@@ -5,8 +5,8 @@
             <div class="col-xl-6 col-lg-7 col-md-10">
                 <div class="section-title text-center">
                     <h5 class="sub-title double-line text-politico">Blog Post</h5>
-                    <h2 class="title">Read Our Latest Tips &Tricks</h2>
-                    <p class="content">Dcidunt eget semper nec quam. Sed hendrerit. acfelis Nunc egestas augue
+                    <h2 class="title text-white">Read Our Latest Tips &Tricks</h2>
+                    <p class="content text-white">Dcidunt eget semper nec quam. Sed hendrerit. acfelis Nunc egestas augue
                         atpellentesque laoreet</p>
                 </div>
             </div>
